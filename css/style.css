@@ -1,0 +1,21 @@
+/* Coloque aqui suas regras de estilo customizadas */
+
+/* Por exemplo: */
+body {
+    background-color: #484747;
+}
+
+.card {
+    background-color: #535353;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #ffffff;
+}
+
+.card-body {
+    background-color: #616161;
+        
+}
